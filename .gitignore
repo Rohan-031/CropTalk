@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Python virtual environments (if any)
+venv/
+backend/ml/venv/
+
+# Logs and temp
+*.log
+*.tmp
+
+# dotenv files
+.env
+frontend/.env
+backend/.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+#ml model
+# backend/ml/
+
